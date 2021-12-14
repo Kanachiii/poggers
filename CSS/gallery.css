@@ -1,0 +1,142 @@
+
+
+body {
+    background-color: darkorange;
+}
+h1 {
+    background-color: orangered;
+    position: relative;
+}
+cat{
+    background-color: darkorange;
+}
+a{
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+    padding: 20px;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 360px;
+    
+}
+    div.gallery:hover {
+        border: 1px solid #777;
+    }
+
+    div.gallery img {
+        width: 100%;
+        height: auto;
+    }
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    background-color: orange;
+    font-style: oblique
+      
+}
+div.gallery1 {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 650px;
+}
+
+    div.gallery1:hover {
+        border: 1px solid #777;
+    }
+
+    div.gallery1 img {
+        width: 100%;
+        height: auto;
+    }
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    background-color: orange;
+    font-style: oblique
+}
+
+p1{
+    background-color: orangered;
+    float: left;
+    margin: 300px;
+    font-size: 30px;
+    position: relative;
+    bottom: 600px;
+    left: 200px;
+}
+p2 {
+    background-color: orangered;
+    float: left;
+    margin: 300px;
+    font-size: 30px;
+    position: relative;
+    bottom: 1150px;
+    left: 200px;
+}
+p3 {
+    background-color: orangered;
+    float: left;
+    margin: 300px;
+    font-size: 30px;
+    position: relative;
+    bottom: 1700px;
+    left: 200px;
+}
+p4 {
+    background-color: orangered;
+    float: left;
+    margin: 300px;
+    font-size: 30px;
+    position: relative;
+    bottom: 2300px;
+    left: 200px;
+}
+
+p5 {
+    background-color: orangered;
+    float: left;
+    margin: 300px;
+    font-size: 30px;
+    position: relative;
+    bottom: 2900px;
+    left: 200px;
+}
+p6 {
+    background-color: orangered;
+    float: left;
+    margin: 300px;
+    font-size: 30px;
+    position: relative;
+    bottom: 3500px;
+    left: 200px;
+}
+p7 {
+    background-color: orangered;
+    float: left;
+    margin: 300px;
+    font-size: 30px;
+    position: relative;
+    bottom: 4050px;
+    left: 200px;
+}
+form{
+    position: relative;
+    right:450px;
+    bottom:450px;
+}
+home{
+    position:relative;
+}
+
+.welcome{
+    position:relative;
+    bottom: 250px;
+}
+
